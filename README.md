@@ -71,3 +71,4 @@ this.$validate('account').then(data => {
   |max|Number 最大值 
   |minLength|String or Number  最小长度 
   |maxLength|String or Number  最大长度  
+  |isPassWord|Boolean  验证密码 (6-16位, 数字, 字母, 字符至少包含两种, 同时不能包含中文和空格)
