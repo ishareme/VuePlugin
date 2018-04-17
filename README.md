@@ -11,7 +11,7 @@
 [example 还没]()
 
 ## Validate 验证插件
-> [link](https://github.com/ishareme/VuePlugin)
+> [link](https://github.com/ishareme/VuePlugin/tree/master/Validate)
 
 #### Basic Usage
 
